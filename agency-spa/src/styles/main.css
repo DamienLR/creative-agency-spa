@@ -5,3 +5,12 @@
   margin: 0;
   padding: 0;
 }
+
+:root {
+  --red: #f94f4f;
+  --red-hover: #ff9393;
+  --bg-black: #191921;
+  --bg-black-hover: #434356;
+  --white: #ffffff;
+  --black: #000000;
+}
