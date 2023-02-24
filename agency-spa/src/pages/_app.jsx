@@ -1,3 +1,4 @@
+import "../styles/main.css";
 import { Commissioner } from "next/font/google";
 
 const commissioner = Commissioner({ subsets: ["latin"] });
