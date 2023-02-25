@@ -19,11 +19,8 @@
   text-align: center;
 }
 
-.nav_links * {
-  color: var(--white);
-}
-
 .nav_links a {
+  color: var(--white);
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.77778;
@@ -43,8 +40,6 @@
 }
 
 .nav_links button {
-  border: none;
-  font-family: inherit;
   font-size: 1rem;
   font-weight: 800;
 }

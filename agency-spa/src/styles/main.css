@@ -15,6 +15,14 @@
   --black: #000000;
 }
 
+button {
+  border: none;
+  border-radius: 0;
+  color: var(--white);
+  font-weight: 800;
+  font-family: inherit;
+}
+
 button:hover {
   cursor: pointer;
 }
